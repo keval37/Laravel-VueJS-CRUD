@@ -41,4 +41,4 @@ npm run watch
 # Connect with Us
 
 -   [Site](https://mineart.in/)
--   [Twitter](https://twitter.com/mineart)
+-   [Instagram](https://www.instagram.com/_m_i_n_e_art_/)
